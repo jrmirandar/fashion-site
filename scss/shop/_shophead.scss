@@ -67,3 +67,12 @@ div.item-rows{
     max-height: 300px;
   }
 }
+
+#container > div > div{
+  display: flex;
+  margin: 10px 0;
+}
+
+#center{
+  justify-content: center;
+}
